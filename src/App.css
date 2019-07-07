@@ -50,23 +50,6 @@ button {
 .pointer {
   cursor: pointer;
 }
-.carousel-indicators li {
-  box-sizing: content-box;
-  flex: 0 1 auto;
-  width: 20px;
-  height: 20px;
-  margin-right: 1px;
-  text-indent: -999px;
-  cursor: pointer;
-  background-color: black;
-  background-clip: padding-box;
-  border-top: 10px solid transparent;
-  border-bottom: 10px solid transparent;
-  opacity: .5;
-  -webkit-transition: opacity 0.6s ease;
-  transition: opacity 0.6s ease;
-  border-radius: 50%;
-}
 .carousel-control-prev-icon, .carousel-control-next-icon {
   opacity: 0;
 }

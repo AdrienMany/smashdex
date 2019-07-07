@@ -18,9 +18,8 @@ class Youtube extends Component {
     }
     
     clicked() {
-
+        
         var showBtn = document.getElementById('showReplays');
-        var showMore = document.getElementById('showMoreReplays');
         // HIDE SHOW BUTTON
         showBtn.style.display = 'none';
         fetch(youtubeUrl)
@@ -31,7 +30,7 @@ class Youtube extends Component {
             const youtubeTitles = responseJson.items.map(object => object.snippet.title);
             
             // PUSH URL AND TITLE TO ARRAY
-            var youtubeInfo = [];
+            // var youtubeInfo = [];
             for (let i = 0; i < youtubeLinks.length; i++) {
                 var youtubeInfos = {
                     'url': youtubeLinks[i],
@@ -42,15 +41,16 @@ class Youtube extends Component {
                 var fighterName = fighterName.charAt(0).toUpperCase() + fighterName.slice(1);
                 if (youtubeTitles[i].includes('SSBU') && youtubeTitles[i].includes(fighterName)) {
                     // console.log(fighterName);
-                    youtubeInfo.push(youtubeInfos);
+                    this.state.youtubeInfo.push(youtubeInfos);
                 }
             }
-            this.setState({youtubeInfo: youtubeInfo});
+            // this.setState({youtubeInfo: youtubeInfo});
             // SET YOUTUBEURL WITH NEXTTOKEN TO GET NEXT RESULTS
             var nextToken = responseJson.nextPageToken;
             youtubeUrl = `https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=${channelID}&maxResults=${MaxResults}&key=${API}&pageToken=${nextToken}`;
             // SHOW 'SHOW'
-            showMore.style.display = 'block';
+            console.log(this.state.youtubeInfo);
+            this.clicked();
         })
         .catch((error) => {
             console.error(error);
@@ -81,7 +81,6 @@ class Youtube extends Component {
                     {this.youtubeLink}
                     <br/>
                 </div>
-                <button id="showMoreReplays" className="btn btn-lg btn-outline-dark border rounded mb-4" style={{display: 'none'}} onClick={this.clicked}>Show more</button>
             </div>
         );
 

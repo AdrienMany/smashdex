@@ -39,8 +39,8 @@ class SkinSlideshow extends React.Component {
         direction={direction}
         onSelect={this.handleSelect}
         fade={true}
-        indicators={true}
         controls={true}
+        indicators={false}
         slide={false}
       >
         <Carousel.Item>

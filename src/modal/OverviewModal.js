@@ -14,8 +14,8 @@ const fadeProperties = {
   duration: 5000,
   transitionDuration: 500,
   infinite: true,
-  indicators: true,
-  arrows: false
+  indicators: false,
+  arrows: true
 }
  
 const data = [
@@ -63,20 +63,6 @@ class OverviewModal extends React.Component {
           <div className="font-weight-bold text-center border mt-2 py-2">
             RUSHDOWN / ZONER
           </div>
-        </div>
-        <div className="col-12 mt-4 d-flex justify-content-around">
-          <ul>
-            <li>Force</li>
-            <li>Force</li>
-            <li>Force</li>
-            <li>Force</li>
-          </ul>
-          <ul>
-            <li>Faiblesse</li>
-            <li>Faiblesse</li>
-            <li>Faiblesse</li>
-            <li>Faiblesse</li>
-          </ul>
         </div>
       </div>
     )
