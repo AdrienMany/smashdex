@@ -25,6 +25,7 @@ class Youtube extends Component {
         fetch(youtubeUrl)
         .then((response) => response.json())
         .then((responseJson) => {
+            console.log(responseJson);
             // GET VIDEO ID AND LINK TO VIDEO
             const youtubeLinks = responseJson.items.map(object => 'https://www.youtube.com/watch?v=' + object.id.videoId);
             const youtubeTitles = responseJson.items.map(object => object.snippet.title);
@@ -50,13 +51,28 @@ class Youtube extends Component {
             youtubeUrl = `https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=${channelID}&maxResults=${MaxResults}&key=${API}&pageToken=${nextToken}`;
             // SHOW 'SHOW'
             console.log(this.state.youtubeInfo);
-            this.clicked();
+            if (nextToken) {
+                this.clicked();
+            };
         })
         .catch((error) => {
             console.error(error);
         });
 
     }
+
+    listReplays() {
+        let list = [];
+    
+        for (let i = 0; i < 3; i++) {
+          let replay = [];
+          for (let j = 0; j < 5; j++) {
+            replay.push(<div>test</div>)
+          };
+          list.push(<div>{replay}</div>);
+        }
+        return list;
+      }
 
     render() {
 
@@ -83,6 +99,15 @@ class Youtube extends Component {
                 </div>
             </div>
         );
+
+        // return (
+        //     <div className="text-center">
+        //         <button id="showReplays" className="btn btn-lg btn-outline-dark border rounded mb-4" onClick={this.clicked}>Load replays</button>
+        //         <table id="replayResults">
+        //             {this.createTable}
+        //         </table>
+        //     </div>
+        // )
 
     }
 
