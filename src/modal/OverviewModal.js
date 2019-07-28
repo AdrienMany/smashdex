@@ -61,7 +61,7 @@ class OverviewModal extends React.Component {
             className="w-100"
           />
           <div className="font-weight-bold text-center border mt-2 py-2">
-            RUSHDOWN / ZONER
+            {this.props.playstyle.toUpperCase()}
           </div>
         </div>
       </div>

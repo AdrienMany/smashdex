@@ -10,6 +10,7 @@ class FighterInfo extends Component {
     color: '',
     image: '',
     serie: '',
+    playstyle: '',
   };
 
   openModal = () => {
@@ -36,7 +37,8 @@ class FighterInfo extends Component {
             modalShow: true, 
             fighterName: fighter.displayName["en_US"], 
             color: fighter.color,
-            image: fighter.file})}>
+            image: fighter.file,
+            playstyle: fighter.playstyle})}>
             <div
               className="fighterCard-body card-body overflow-hidden">
               <img
@@ -55,7 +57,8 @@ class FighterInfo extends Component {
           onHide={modalClose} 
           fighter={this.state.fighterName} 
           color={this.state.color}
-          image={this.state.image}/>
+          image={this.state.image}
+          playstyle={this.state.playstyle}/>
       </div>
     );
   }

@@ -37,7 +37,7 @@
       "displayNameEnSecondary": "",
       "fileSecondary": "",
       "slug": "cat02_fighter_01",
-      "history": "Mario returns as a playable character in Super Smash Bros. Ultimate. Initially teased alongside Link and the Inklings during the then-unnamed Super Smash Bros. trailer at the end of the March 8th, 2018 Nintendo Direct, he was formally announced announced alongside the rest of the cast via Ultimate's E3 2018 trailer on June 12th, 2018. <br>Mario's design has once again been updated, and it is now based on his appearance in Super Mario Odyssey, complete with Cappy in place of his usual hat and having his wedding attire as a new alternate costume. In addition, Builder Mario from Super Mario Maker appears as an alternate costume, with it and the wedding attire replacing the Wario-themed and Fire Mario costumes. <br>Compared to his fellow veterans, Mario has received very few major direct changes in his transition to Ultimate, possibly less than any other veteran. However, changes to game mechanics brought about by Ultimate have impacted Mario to a higher degree, resulting in a healthy mix of buffs and nerfs overall."
+      "playstyle": "mixed"
     },
     {
       "id": "f002",
@@ -76,7 +76,7 @@
       "displayNameEnSecondary": "",
       "fileSecondary": "",
       "slug": "cat02_fighter_02",
-      "history": "Donkey Kong, often shortened to DK, is the main protagonist of the Donkey Kong series, and a recurring character in the Mario series. The original Donkey Kong was an antagonist for Mario, but in later games it was established to be Donkey Kong's grandfather, Cranky Kong. The current Donkey Kong is the main protagonist of the Donkey Kong Country series, first appearing in Donkey Kong Country. However, he also appears as a featured character in Mario spinoff games. As a member of the 'perfect-attendance crew', Donkey Kong has been featured as a playable character throughout the entire Super Smash Bros. series."
+      "playstyle": "bait & punish - grappler"
     },
     {
       "id": "f003",
@@ -115,7 +115,7 @@
       "displayNameEnSecondary": "",
       "fileSecondary": "",
       "slug": "cat02_fighter_03",
-      "history": "Link returns in Super Smash Bros. Ultimate as a playable character. Like Brawl, Ultimate features a new incarnation of Link succeeding a previously playable one; in this case, it is the 'Hero of the Wild' from The Legend of Zelda: Breath of the Wild. In addition to wearing the Champion's Tunic as part of his default costume, Link has the Wild Set of clothes as an alternate costume. Compared to his predecessors, Link features a few noticeably distinct properties to his moveset. These most notably include the Remote Bomb Rune instead of traditional Bombs, the ability to fire two arrows simultaneously, his lack of a Hookshot or Clawshot, and his Final Smash utilizing an Ancient Bow to fire an Ancient Arrow. On a minor note, Link is also right-handed as in Breath of the Wild, in contrast to his playable predecessors."
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f004",
@@ -153,7 +153,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_04"
+      "slug": "cat02_fighter_04",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f065",
@@ -192,7 +193,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_04-dash"
+      "slug": "cat02_fighter_04-dash",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f005",
@@ -230,7 +232,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_05"
+      "slug": "cat02_fighter_05",
+      "playstyle": "mixed"
     },
     {
       "id": "f006",
@@ -268,7 +271,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_06"
+      "slug": "cat02_fighter_06",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f007",
@@ -306,7 +310,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_07"
+      "slug": "cat02_fighter_07",
+      "playstyle": "rushdown"
     },
     {
       "id": "f008",
@@ -344,7 +349,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_08"
+      "slug": "cat02_fighter_08",
+      "playstyle": "rushdown - zone breaker"
     },
     {
       "id": "f009",
@@ -382,7 +388,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_09"
+      "slug": "cat02_fighter_09",
+      "playstyle": "bait & punish - grappler"
     },
     {
       "id": "f010",
@@ -420,7 +427,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_10"
+      "slug": "cat02_fighter_10",
+      "playstyle": "bait & punish"
     },
     {
       "id": "f011",
@@ -459,7 +467,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_11"
+      "slug": "cat02_fighter_11",
+      "playstyle": "rushdown - mix-up"
     },
     {
       "id": "f012",
@@ -497,7 +506,8 @@
       "type": "",
       "displayNameEnSecondary": "JIGGLYPUFF",
       "fileSecondary": "jigglypuff",
-      "slug": "cat02_fighter_12"
+      "slug": "cat02_fighter_12",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f013",
@@ -535,7 +545,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_13"
+      "slug": "cat02_fighter_13",
+      "playstyle": "bait & punish - mixed"
     },
     {
       "id": "f014",
@@ -574,7 +585,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_13-dash"
+      "slug": "cat02_fighter_13-dash",
+      "playstyle": "bait & punish - mixed"
     },
     {
       "id": "f015",
@@ -612,7 +624,8 @@
       "type": "",
       "displayNameEnSecondary": "BOWSER",
       "fileSecondary": "bowser",
-      "slug": "cat02_fighter_14"
+      "slug": "cat02_fighter_14",
+      "playstyle": "bait & punish - grappler"
     },
     {
       "id": "f016",
@@ -650,7 +663,8 @@
       "type": "",
       "displayNameEnSecondary": "ICE CLIMBERS",
       "fileSecondary": "ice_climbers",
-      "slug": "cat02_fighter_15"
+      "slug": "cat02_fighter_15",
+      "playstyle": "bait & punish - grappler"
     },
     {
       "id": "f017",
@@ -688,7 +702,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_16"
+      "slug": "cat02_fighter_16",
+      "playstyle": "rushdown - zone breaker"
     },
     {
       "id": "f018",
@@ -726,7 +741,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_17"
+      "slug": "cat02_fighter_17",
+      "playstyle": "zoning"
     },
     {
       "id": "f019",
@@ -764,7 +780,8 @@
       "type": "",
       "displayNameEnSecondary": "DR. MARIO",
       "fileSecondary": "dr_mario",
-      "slug": "cat02_fighter_18"
+      "slug": "cat02_fighter_18",
+      "playstyle": "mixed"
     },
     {
       "id": "f020",
@@ -802,7 +819,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_19"
+      "slug": "cat02_fighter_19",
+      "playstyle": "rushdown - zone breaker"
     },
     {
       "id": "f021",
@@ -840,7 +858,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_20"
+      "slug": "cat02_fighter_20",
+      "playstyle": "rushdown - mix-up"
     },
     {
       "id": "f022",
@@ -878,7 +897,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_21"
+      "slug": "cat02_fighter_21",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f023",
@@ -917,7 +937,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_21-dash"
+      "slug": "cat02_fighter_21-dash",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f024",
@@ -955,7 +976,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_22"
+      "slug": "cat02_fighter_22",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f025",
@@ -993,7 +1015,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_23"
+      "slug": "cat02_fighter_23",
+      "playstyle": "bait & punish"
     },
     {
       "id": "f026",
@@ -1031,7 +1054,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_24"
+      "slug": "cat02_fighter_24",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f027",
@@ -1069,7 +1093,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_25"
+      "slug": "cat02_fighter_25",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f066",
@@ -1108,7 +1133,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_25-dash"
+      "slug": "cat02_fighter_25-dash",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f028",
@@ -1147,7 +1173,8 @@
       "type": "",
       "displayNameEnSecondary": "MR. GAME & WATCH",
       "fileSecondary": "mr_game_and_watch",
-      "slug": "cat02_fighter_26"
+      "slug": "cat02_fighter_26",
+      "playstyle": "rushdown - mix-up"
     },
     {
       "id": "f029",
@@ -1185,7 +1212,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_27"
+      "slug": "cat02_fighter_27",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f030",
@@ -1223,7 +1251,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_28"
+      "slug": "cat02_fighter_28",
+      "playstyle": "mixed"
     },
     {
       "id": "f031",
@@ -1262,7 +1291,8 @@
       "type": "",
       "displayNameEnSecondary": "DARK PIT",
       "fileSecondary": "dark_pit",
-      "slug": "cat02_fighter_28-dash"
+      "slug": "cat02_fighter_28-dash",
+      "playstyle": "mixed"
     },
     {
       "id": "f032",
@@ -1301,7 +1331,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_29"
+      "slug": "cat02_fighter_29",
+      "playstyle": "rushdown - zone-breaker"
     },
     {
       "id": "f033",
@@ -1339,7 +1370,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_30"
+      "slug": "cat02_fighter_30",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f034",
@@ -1377,7 +1409,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_31"
+      "slug": "cat02_fighter_31",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f035",
@@ -1415,7 +1448,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_32"
+      "slug": "cat02_fighter_32",
+      "playstyle": "rushdown - hit & run"
     },
     {
       "id": "f036",
@@ -1454,7 +1488,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_33-35"
+      "slug": "cat02_fighter_33-35",
+      "playstyle": "mixed"
     },
     {
       "id": "f037",
@@ -1492,7 +1527,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_36"
+      "slug": "cat02_fighter_36",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f038",
@@ -1530,7 +1566,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_37"
+      "slug": "cat02_fighter_37",
+      "playstyle": "rushdown - mix-up"
     },
     {
       "id": "f039",
@@ -1569,7 +1606,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_38"
+      "slug": "cat02_fighter_38",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f040",
@@ -1607,7 +1645,8 @@
       "type": "",
       "displayNameEnSecondary": "KING DEDEDE",
       "fileSecondary": "king_dedede",
-      "slug": "cat02_fighter_39"
+      "slug": "cat02_fighter_39",
+      "playstyle": "bait & punish - zoning"
     },
     {
       "id": "f041",
@@ -1646,7 +1685,8 @@
       "type": "",
       "displayNameEnSecondary": "OLIMAR",
       "fileSecondary": "olimar",
-      "slug": "cat02_fighter_40"
+      "slug": "cat02_fighter_40",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f042",
@@ -1684,7 +1724,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_41"
+      "slug": "cat02_fighter_41",
+      "playstyle": "mixed"
     },
     {
       "id": "f043",
@@ -1722,7 +1763,8 @@
       "type": "",
       "displayNameEnSecondary": "R.O.B.",
       "fileSecondary": "rob",
-      "slug": "cat02_fighter_42"
+      "slug": "cat02_fighter_42",
+      "playstyle": "zoning - mix-up"
     },
     {
       "id": "f044",
@@ -1760,7 +1802,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_43"
+      "slug": "cat02_fighter_43",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f045",
@@ -1798,7 +1841,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_44"
+      "slug": "cat02_fighter_44",
+      "playstyle": "rushdown - mix-up"
     },
     {
       "id": "f046",
@@ -1836,7 +1880,8 @@
       "type": "",
       "displayNameEnSecondary": "VILLAGER",
       "fileSecondary": "villager",
-      "slug": "cat02_fighter_45"
+      "slug": "cat02_fighter_45",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f047",
@@ -1874,7 +1919,8 @@
       "type": "",
       "displayNameEnSecondary": "MEGA MAN",
       "fileSecondary": "mega_man",
-      "slug": "cat02_fighter_46"
+      "slug": "cat02_fighter_46",
+      "playstyle": "zoning"
     },
     {
       "id": "f048",
@@ -1912,7 +1958,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_47"
+      "slug": "cat02_fighter_47",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f049",
@@ -1950,7 +1997,8 @@
       "type": "",
       "displayNameEnSecondary": "ROSALINA & LUMA",
       "fileSecondary": "rosalina_and_luma",
-      "slug": "cat02_fighter_48"
+      "slug": "cat02_fighter_48",
+      "playstyle": "zoning - mixed"
     },
     {
       "id": "f050",
@@ -1988,7 +2036,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_49"
+      "slug": "cat02_fighter_49",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f051",
@@ -2026,7 +2075,8 @@
       "type": "",
       "displayNameEnSecondary": "GRENINJA",
       "fileSecondary": "greninja",
-      "slug": "cat02_fighter_50"
+      "slug": "cat02_fighter_50",
+      "playstyle": "rushdown - hit & run"
     },
     {
       "id": "f052",
@@ -2064,7 +2114,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_51-53"
+      "slug": "cat02_fighter_51-53",
+      "playstyle": "mixed"
     },
     {
       "id": "f053",
@@ -2102,7 +2153,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_54"
+      "slug": "cat02_fighter_54",
+      "playstyle": "zoning - hit & run"
     },
     {
       "id": "f054",
@@ -2140,7 +2192,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_55"
+      "slug": "cat02_fighter_55",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f055",
@@ -2178,7 +2231,8 @@
       "type": "",
       "displayNameEnSecondary": "ROBIN",
       "fileSecondary": "robin",
-      "slug": "cat02_fighter_56"
+      "slug": "cat02_fighter_56",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f056",
@@ -2216,7 +2270,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_57"
+      "slug": "cat02_fighter_57",
+      "playstyle": "mixed"
     },
     {
       "id": "f057",
@@ -2254,7 +2309,8 @@
       "type": "",
       "displayNameEnSecondary": "BOWSER JR.",
       "fileSecondary": "bowser_jr",
-      "slug": "cat02_fighter_58"
+      "slug": "cat02_fighter_58",
+      "playstyle": "zoning - mixed"
     },
     {
       "id": "f058",
@@ -2292,7 +2348,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_59"
+      "slug": "cat02_fighter_59",
+      "playstyle": "zoning - turtle"
     },
     {
       "id": "f059",
@@ -2330,7 +2387,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_60"
+      "slug": "cat02_fighter_60",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f071",
@@ -2369,7 +2427,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_60-dash"
+      "slug": "cat02_fighter_60-dash",
+      "playstyle": "rushdown - footsies"
     },
     {
       "id": "f060",
@@ -2407,7 +2466,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_61"
+      "slug": "cat02_fighter_61",
+      "playstyle": "mixed"
     },
     {
       "id": "f061",
@@ -2445,7 +2505,8 @@
       "type": "",
       "displayNameEnSecondary": "CORRIN",
       "fileSecondary": "corrin",
-      "slug": "cat02_fighter_62"
+      "slug": "cat02_fighter_62",
+      "playstyle": "zoning - mix-up"
     },
     {
       "id": "f062",
@@ -2483,7 +2544,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_63"
+      "slug": "cat02_fighter_63",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f063",
@@ -2521,7 +2583,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_64"
+      "slug": "cat02_fighter_64",
+      "playstyle": "bait & punish - hit & run"
     },
     {
       "id": "f064",
@@ -2559,7 +2622,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_65"
+      "slug": "cat02_fighter_65",
+      "playstyle": "bait & punish - grappler"
     },
     {
       "id": "f067",
@@ -2597,7 +2661,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_66"
+      "slug": "cat02_fighter_66",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f068",
@@ -2636,7 +2701,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_66-dash"
+      "slug": "cat02_fighter_66-dash",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f069",
@@ -2674,7 +2740,8 @@
       "type": "",
       "displayNameEnSecondary": "",
       "fileSecondary": "",
-      "slug": "cat02_fighter_67"
+      "slug": "cat02_fighter_67",
+      "playstyle": "bait & punish - mixed"
     },
     {
       "id": "f070",
@@ -2712,7 +2779,8 @@
       "type": "",
       "displayNameEnSecondary": "ISABELLE",
       "fileSecondary": "isabelle",
-      "slug": "cat02_fighter_68"
+      "slug": "cat02_fighter_68",
+      "playstyle": "zoning - trapper"
     },
     {
       "id": "f072",
@@ -2750,7 +2818,8 @@
       "type": "",
       "displayNameEnSecondary": "INCINEROAR",
       "fileSecondary": "incineroar",
-      "slug": "cat02_fighter_69"
+      "slug": "cat02_fighter_69",
+      "playstyle": "bait & punish - grapper"
     },
     {
       "id": "f073",
@@ -2789,7 +2858,8 @@
       "type": "",
       "displayNameEnSecondary": "PIRANHA PLANT",
       "fileSecondary": "piranha_plant",
-      "slug": "cat02_fighter_70"
+      "slug": "cat02_fighter_70",
+      "playstyle": "zoning - bait & punish"
     },
     {
       "id": "f074",
@@ -2828,7 +2898,8 @@
       "type": "",
       "displayNameEnSecondary": "JOKER",
       "fileSecondary": "joker",
-      "slug": "cat02_fighter_71"
+      "slug": "cat02_fighter_71",
+      "playstyle": "rushdown"
     }
   ]
 }

@@ -53,3 +53,7 @@ button {
 .carousel-control-prev-icon, .carousel-control-next-icon {
   opacity: 0;
 }
+.carousel-control-prev:hover, .carousel-control-next:hover {
+  background-color: rgba(1, 1, 1, 0.2);
+  transition: ease 0.5s;
+}

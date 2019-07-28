@@ -22,7 +22,8 @@ class FighterModal extends React.Component {
           <ContentModal 
             fighter={this.props.fighter}
             color={this.props.color}
-            image={this.props.image} />
+            image={this.props.image}
+            playstyle={this.props.playstyle} />
         </Modal.Body>
       </Modal>
     );
